@@ -136,7 +136,7 @@ Once all dependencies are installed and the necessary model files (`age_gender_m
 
 ## 📈 Model Performance
 
-The model was trained on a subset of the UTKFace dataset (approx. XX,XXX images for training, Y,YYY for validation, Z,ZZZ for testing).
+The model was trained on a subset of the UTKFace dataset (approx.14,224images for training, 4,742 for validation, 4742 for testing).
 The performance on the test set is as follows:
 
 *   **Age Prediction (Mean Absolute Error - MAE):** ~5.81 years
